@@ -1,34 +1,30 @@
+.logo img {
+    width: 45px;
+}
+
+.logo a {
+    text-decoration: none;
+}
+
 .container {
     display: flex;
 }
 
 .food img {
-    height: 60%;
-    width: 50%;
-    position: absolute;
-}
-
-.logo {
-    display: flex;
-    height: 40px;
-    margin-left: 295px;
+    width: 750px;
 }
 
 .everything {
     text-align: center;
+    
+    padding-top: 100px;
     font-family: "Work-Sans",sans-serif;
-    margin-left: 50%;
-    margin-top: 130px;
-    position: absolute;
 }
 
 h3 {
     border-top: 2px solid rgba(0,0,0,0.4);
     border-bottom: 2px solid rgba(0,0,0,0.4);
-    border-left: none;
-    border-right: none;
-    color: rgba(0,0,0,0.6);
-    margin-top: 25px;
+    margin-top: 30px;
     padding-top: 20px;
     padding-bottom: 20px;
 }
