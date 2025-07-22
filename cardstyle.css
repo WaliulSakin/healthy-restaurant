@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.full {
+    border: 1px solid black;
+    font-family: "Work-Sans",sans-serif;
+}
+
+.full img {
+    width: 350px;
+}
+
+p {
+    width: 360px;
+    padding-left: 7px;
+    padding-right: 7px;
+}
