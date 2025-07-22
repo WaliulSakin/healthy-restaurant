@@ -6,8 +6,9 @@ body {
 }
 
 .full {
-    border: 1px solid black;
     font-family: "Work-Sans",sans-serif;
+    margin-top: 80px;
+    border: 2px dashed rgba(0,0,0,0.4);
 }
 
 .full img {
@@ -18,4 +19,22 @@ p {
     width: 360px;
     padding-left: 7px;
     padding-right: 7px;
+}
+
+h4 {
+    background-color: #52C30326;
+    margin-left: 125px;
+    margin-right: 125px;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    border-radius: 5px;
+}
+
+button {
+    background-color: #52C303;
+    padding: 10px 15px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+
 }
