@@ -5,3 +5,31 @@
 .logo a {
     text-decoration: none;
 }
+
+body {
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    text-align: center;
+    background-image: url(assets/social-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
+.full {
+    font-family: "Work-Sans",sans-serif;
+    width: 900px;
+    padding-top: 100px;
+}
+
+h4 {
+    border-top: 2px solid rgba(0,0,0,0.4);
+    border-bottom: 2px solid rgba(0,0,0,0.4);
+    padding: 15px 0px 15px;
+    color: rgba(0,0,0,0.8);
+}
+
+p {
+    color: rgba(0,0,0,0.8);
+}
